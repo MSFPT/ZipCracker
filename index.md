@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# ZipCracker
 
-You can use the [editor on GitHub](https://github.com/MSFPT/ZipCracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Python](https://img.shields.io/badge/python-3.8-blue)](https://python.org)
+![Level](https://img.shields.io/badge/Level-Easy-cyan)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[View Demo](https://raw.githubusercontent.com/MSFPT/ZipCracker/master/demo.mp4)
 
-### Markdown
+## Runing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Run the following to Use ZipCracker on your terminal:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+$ python ZipCracker <Zip_File> <Password_List_File>
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## About
+The [ZipCracker](https://github.com/MSFPT/ZipCracker) makes it easy to extract zip files.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSFPT/ZipCracker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+this tool can also crack your zip files password.
