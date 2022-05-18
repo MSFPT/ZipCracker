@@ -1,7 +1,7 @@
 # ZipCracker
 
-[![Python](https://img.shields.io/badge/python-3.8-blue)](https://python.org)
-![Level](https://img.shields.io/badge/Level-Easy-cyan)
+<!-- [![Python](https://img.shields.io/badge/python-3.8-blue)](https://python.org)
+![Level](https://img.shields.io/badge/Level-Easy-cyan) -->
 
 ![Demo](https://raw.githubusercontent.com/MSFPT/ZipCracker/master/demo.gif)
 
